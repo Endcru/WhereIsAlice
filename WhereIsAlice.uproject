@@ -3,6 +3,16 @@
 	"EngineAssociation": "5.5",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "WhereIsAlice",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
@@ -43,6 +53,13 @@
 			"Name": "BookMenu",
 			"Enabled": true,
 			"MarketplaceURL": "https://publish.unrealengine.com/v3/edit-product/a88c635f71bd42a680592c8ec2e91e32"
+		},
+		{
+			"Name": "BlueprintFileUtils",
+			"Enabled": true
 		}
+	],
+	"AdditionalPluginDirectories": [
+		"Plugin"
 	]
 }
