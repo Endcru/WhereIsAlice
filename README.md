@@ -1,7 +1,7 @@
 # Where Is Alice?
 
 
-Ссылка на билд игры - https://disk.yandex.ru/d/5XyzUkojbLMe7Q
+Ссылка на билд игры - https://disk.yandex.ru/d/H26N0VnRByOvog
 
 Описание игры:
 
