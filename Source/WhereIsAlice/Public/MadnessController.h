@@ -6,7 +6,7 @@
 #include "GameFramework/Actor.h"
 #include "MadnessController.generated.h"
 
-UCLASS()
+UCLASS(Blueprintable)
 class WHEREISALICE_API AMadnessController : public AActor
 {
 	GENERATED_BODY()
@@ -14,10 +14,6 @@ class WHEREISALICE_API AMadnessController : public AActor
 public:	
 	// Sets default values for this actor's properties
 	AMadnessController();
-
-	// DefaultSceneRoot
-	UPROPERTY(BlueprintReadOnly, VisibleAnywhere, Category = "Default")
-	TObjectPtr<USceneComponent> DefaultSceneRoot;
 
 	// Level of Madness when Madness Effect apear
 	UPROPERTY(BlueprintReadWrite, EditDefaultsOnly, Category = "Default")
