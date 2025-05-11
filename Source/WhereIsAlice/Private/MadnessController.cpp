@@ -26,7 +26,7 @@ void AMadnessController::BeginPlay()
 			UE_LOG(LogTemp, Warning, TEXT("Player's Character Name: %s"), *MainCharacter->GetName());
 		}
 	}
-	UMaterialParameterCollection* MPC = LoadObject<UMaterialParameterCollection>(nullptr, TEXT("/Game/Magic/ScanMagic/PC_PostProcessData.PC_PostProcessData"));
+	UMaterialParameterCollection* MPC = LoadObject<UMaterialParameterCollection>(nullptr, TEXT("/Game/Magic/PC_PostProcessData.PC_PostProcessData"));
 	if (IsValid(MPC) && GetWorld())
 	{
 		MPCInstance = GetWorld()->GetParameterCollectionInstance(MPC);

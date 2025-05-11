@@ -17,7 +17,7 @@ public:
 
 	// Level of Madness when Madness Effect apear
 	UPROPERTY(BlueprintReadWrite, EditDefaultsOnly, Category = "Default")
-	double MadnesEffectMadnessLevel = 80;
+	double MadnesEffectMadnessLevel = 80.0;
 
 	// HDRIBackdrop with Shub-Niggurat Sky image
 	UPROPERTY(BlueprintReadWrite, EditAnywhere, Category = "Default")
