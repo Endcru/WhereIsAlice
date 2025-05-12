@@ -1,7 +1,7 @@
 # Where Is Alice?
 
 
-Ссылка на билд игры - https://disk.yandex.ru/d/OoQJ7NpnagLZXw
+Ссылка на билд игры - https://disk.yandex.ru/d/osVDJqeGRsRCJw
 
 Страницы игры на itchio - https://endcru.itch.io/where-is-alice
 
