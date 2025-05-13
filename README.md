@@ -47,17 +47,18 @@ USP
 
 
 При сборке на устройстве автора было установлено:
--Пакет разработка игры на С++
--Visual Studio 2022 - 17.12.3
--C++ Build Insights
--C++ AddressSanitizer
--Диспетчер пакетов vcpkg
--Пакет SDK для Windows 10 (10.0.19041.0)
--Github Copilot
--Инструменты HLSL
--IntelliCode
--Windows Perfomance Toolkit
--MSVC версии 143
+
+- Пакет разработка игры на С++
+- Visual Studio 2022 - 17.12.3
+- C++ Build Insights
+- C++ AddressSanitizer
+- Диспетчер пакетов vcpkg
+- Пакет SDK для Windows 10 (10.0.19041.0)
+- Github Copilot
+- Инструменты HLSL
+- IntelliCode
+- Windows Perfomance Toolkit
+- MSVC версии 143
 
 Как скачать и собрать
 
