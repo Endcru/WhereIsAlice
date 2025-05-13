@@ -65,6 +65,6 @@ MSVC версии 143
 **Клонируйте репозиторий с поддержкой LFS:**
 Воспользуйтесь Github Desktop
 
-После этого открыть файл расширения uproject Where Is Alice c помощью приложения UnrealEditor в папке UE_5.5/Engine/Binaries/Win64
+После этого открыть файл WhereIsAlice.uproject c помощью приложения UnrealEditor в папке UE_5.5/Engine/Binaries/Win64
 
 После предупреждения о том, что игра была собрана на другой версии движка согласиться пересобрать её.
