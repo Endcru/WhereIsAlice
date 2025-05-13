@@ -38,12 +38,6 @@ USP
 Требования
 
 - **Unreal Engine 5.5.4** (https://www.unrealengine.com/)
-- **Visual Studio 2022**
-  - Необходимые компоненты:
-    - Desktop development with C++
-    - Game development with C++
-    - .NET Framework 4.6.2 SDK
-    - Windows 10 SDK (или Windows 11 SDK)
   - Плагины для Unreal Engine:
     -  "ModelingToolsEditorMode"
     -  "MotionTrajectory"
@@ -56,6 +50,13 @@ USP
     -  "BlueprintFileUtils"
     -  "Async Loading Screen"
     -  "BookMenu"
+- **Visual Studio 2022**
+  - Необходимые компоненты:
+    - Desktop development with C++
+    - Game development with C++
+    - .NET Framework 4.6.2 SDK
+    - Windows 10 SDK (или Windows 11 SDK)
+  
 
 
 При сборке на устройстве автора было установлено:
