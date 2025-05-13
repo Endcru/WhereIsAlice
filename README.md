@@ -45,7 +45,26 @@ USP
     - .NET Framework 4.6.2 SDK
     - Windows 10 SDK (или Windows 11 SDK)
 
+
+При сборке на устройстве автора было установлено:
+Пакет разработка игры на С++
+Visual Studio 2022 - 17.12.3
+C++ Build Insights
+C++ AddressSanitizer
+Диспетчер пакетов vcpkg
+Пакет SDK для Windows 10 (10.0.19041.0)
+Github Copilot
+Инструменты HLSL
+IntelliCode
+Windows Perfomance Toolkit
+MSVC версии 143
+
+
 Как скачать и собрать
 
 **Клонируйте репозиторий с поддержкой LFS:**
 Воспользуйтесь Github Desktop
+
+После этого открыть файл расширения uproject Where Is Alice c помощью приложения UnrealEditor в папке UE_5.5/Engine/Binaries/Win64
+
+После предупреждения о том, что игра была собрана на другой версии движка согласиться пересобрать её.
