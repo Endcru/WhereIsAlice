@@ -44,7 +44,18 @@ USP
     - Game development with C++
     - .NET Framework 4.6.2 SDK
     - Windows 10 SDK (или Windows 11 SDK)
-- Плагины для Unreal Engine: - "ModelingToolsEditorMode", - "MotionTrajectory", - "PoseSearch", - "MotionWarping", - "AnimationWarping" - "Chooser" - "AnimationLocomotionLibrary" - "DeformerGraph" - "BlueprintFileUtils" - "Async Loading Screen" - "BookMenu"
+- Плагины для Unreal Engine:
+-  "ModelingToolsEditorMode"
+-  "MotionTrajectory"
+-  "PoseSearch"
+-  "MotionWarping"
+-  "AnimationWarping"
+-  "Chooser"
+-  "AnimationLocomotionLibrary"
+-  "DeformerGraph"
+-  "BlueprintFileUtils"
+-  "Async Loading Screen"
+-  "BookMenu"
 
 
 При сборке на устройстве автора было установлено:
